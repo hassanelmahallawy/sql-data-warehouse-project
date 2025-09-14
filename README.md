@@ -27,10 +27,10 @@ The project follows the **Medallion Architecture** (Bronze, Silver, Gold):
 - **Notion** for project planning  
 
 ## 📂 Repository Structure  
-datasets/ -> Raw CSV files
-docs/ -> Architecture diagrams & docs
-scripts/ -> SQL ETL & transformations
-tests/ -> Test queries and quality checks
+- datasets/ -> Raw CSV files
+- docs/ -> Architecture diagrams & docs
+- scripts/ -> SQL ETL & transformations
+- tests/ -> Test queries and quality checks
 
 ## 🚀 Project Goal  
 Build a modern data warehouse that consolidates data, improves data quality, and provides insights into:  
